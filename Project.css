@@ -1,10 +1,10 @@
 #myFooter{
-    background-color:#3c3d41;
+    background-color:#2c303a;
     color:#fff;
     padding-top:30px
 }
 #myFooter .footer-copyright{
-    background-color:#333;
+    background-color:#21242c;
     padding-top:3px;
     padding-bottom:3px;
     text-align:center
@@ -56,4 +56,26 @@ body{
 }
 .caret{
     font-size: 20px;
+}
+.bg-1 {
+background-color: #fff0f0;
+color: #000000;
+}
+        
+.bg-2 {
+    background-color: #2c303a;
+    color: #ffffff;
+}
+        
+.bg-3 {
+    background-color: #ffecec;
+    color: #000000;
+}
+        
+.container-fluid {
+    padding-top: 73px;
+    padding-bottom: 73px;
+}
+nav{
+    background-color: #2c303a;
 }
